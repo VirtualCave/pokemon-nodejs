@@ -1,6 +1,6 @@
 FROM node:alpine
 
-LABEL mantainer="Javi Moreno <javi.moreno@capside.com>"
+LABEL mantainer="Virtual Cave <dvidal@virtualcave.io>"
 
 WORKDIR /app
 ADD . /app
